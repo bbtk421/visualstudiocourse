@@ -1,0 +1,13 @@
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.vbprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.vb
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\bbtk4\Documents\GitHub\visualstudio\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

@@ -1,0 +1,55 @@
+﻿@page
+@model IndexModel
+@{ViewData["Title"] = "Fruit Bats - Humbug Mountain Song";}
+
+<style>
+    body {
+        font-family: "Roboto", sans-serif;
+        background: #202020;
+    }
+    #video {
+        margin: 0;
+    }
+    iframe {
+        min-width: 100%;
+        position: relative;
+    }
+    #test {
+        top: -600px;
+    }
+</style>
+
+<body>
+
+    <div>
+        <br /><br />
+        <div class="video">
+            <iframe id="test" width="1020" height="530" src="https://www.youtube.com/embed/DVG8Batu-Ac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+    <br />
+    <div>
+        <p><button onclick="myMove()">Click Me</button></p>
+    </div>
+
+    <script>
+        function myMove() {
+            var elem = document.getElementById("test");
+            var pos = -600;
+            var id = setInterval(frame, 1);
+            function frame() {
+                if (pos == 0) {
+                    clearInterval(id);
+                }
+                else {
+                    pos++;
+                    elem.style.top = pos + 'px';
+                }
+            }
+        }
+    </script>
+
+</body>
+
+
+
